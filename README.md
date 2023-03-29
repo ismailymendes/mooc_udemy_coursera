@@ -9,7 +9,6 @@ MOOC quer dizer Massive Open Online Courses, em português, Curso Online Aberto 
 <p align="justify">
 A Udemy é uma plataforma MOOC de aprendizagem e ensino online mais popular do mercado, possuindo mais de 200 mil cursos abrangendo em torno de 75 idiomas. O objetivo deste projeto é analisar a plataforma como um todo, com ênfase em seus cursos para determinar quais são os mais vendidos, melhor avaliados, que possuem mais alunos e os mais vendidos.</p>
 
-
 ## Tecnologias utilizadas:
 
 * [Jupyter Notebook](https://jupyter.org/)
