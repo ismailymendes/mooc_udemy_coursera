@@ -21,7 +21,7 @@ A Udemy é uma plataforma MOOC de aprendizagem e ensino online mais popular do m
 * [Tableau](https://pypi.org/project/gTTS/)
 
 ## Dashboard:
-Para acessar o dashboard pelo Tableau Public [clique aqui.](https://public.tableau.com/views/NorthwindSalesDashboard_16788121336900/Dashboard?:language=pt-BR&:display_count=n&:origin=viz_share_link) ou [aqui](https://public.tableau.com/views/MOOCUdemyen/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
+Para acessar o dashboard pelo Tableau Public [clique aqui](https://public.tableau.com/views/NorthwindSalesDashboard_16788121336900/Dashboard?:language=pt-BR&:display_count=n&:origin=viz_share_link) ou [aqui](https://public.tableau.com/views/MOOCUdemyen/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ![Dashboard](docs/mooc_udemy1.png)
 ![Dashboard](docs/mooc_udemy2.png)
